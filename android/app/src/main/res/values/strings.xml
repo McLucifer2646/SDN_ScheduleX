@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+<string name='app_name'>schedulex</string>
+<string name="facebook_app_id">326832356778336</string>
+<string name="fb_login_protocol_scheme">fb326832356778336</string>
+<string name="facebook_client_token">eb4610a0f76cf51c53085bdc59b01743</string>
+</resources>

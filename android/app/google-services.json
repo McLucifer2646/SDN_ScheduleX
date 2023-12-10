@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "462233183318",
+    "project_id": "schedulex-46aee",
+    "storage_bucket": "schedulex-46aee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462233183318:android:b454cc65891adf325ac7f7",
+        "android_client_info": {
+          "package_name": "com.example.schedulex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "462233183318-paje97j6ln9ctl3ijcqrkcg6rc6g81fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.schedulex",
+            "certificate_hash": "7f8cd1616c508ed0dc3c2686487f70c9e0633f87"
+          }
+        },
+        {
+          "client_id": "462233183318-i27o629eb4urp8086rknu88jn20bome9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuTNSjp1HMkEEx9BhnlUsrmpn0QoMs_nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "462233183318-i27o629eb4urp8086rknu88jn20bome9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
